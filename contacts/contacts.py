@@ -73,18 +73,3 @@ while True:
     elif choice == 0:
         save()
         break
-
-    
-
-
-"""
-🔹 Easy upgrades
-Show total contacts +
-Sort contacts alphabetically +
-🔹 Medium upgrades
-Edit contact (update number)
-Add email field → {"number":..., "email":...}
-🔹 Cool upgrade
-Partial search (“jo” → John)
-Backup file system (auto copy JSON
-"""
